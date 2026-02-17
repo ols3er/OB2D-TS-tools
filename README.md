@@ -1,2 +1,2 @@
 # OB2D-TS-tools
-OB2D Typescript tools
+OB2D TypeScript tools
